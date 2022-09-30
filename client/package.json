@@ -13,8 +13,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "@antv/g2": "^3.5.9",
-    "d3": "^5.14.2",
+    "@antv/g2": "^4.2.8",
+    "d3": "^7.6.1",
     "echarts": "^4.5.0",
     "qs.js": "^0.1.12",
     "view-design": "^4.0.2",
